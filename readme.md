@@ -1,6 +1,6 @@
 # Gamescope Portable
 
-I Originally made this because there's no Gamescope repo for my Pop!_OS 22.04 that i can use, there are some but they're also outdated. I use Gamescope mainly just for Wayland Compositor to run Waydroid on it. Since i use NVIDIA Graphics Card, i much prefer to run Waydroid on X11 (Xorg) instead of using Wayland directly
+I Originally made this because there's no Gamescope repo for my Pop!_OS 22.04 that i can use. There are some but they're outdated. I use Gamescope mainly just for Wayland Compositor to run Waydroid on it. Since i use NVIDIA Graphics Card, i much prefer to run Waydroid on X11 (Xorg) instead of using Wayland directly
 
 ## Features
 - Built inside Docker (Arch Linux) means that the final binaries are not tied to the host system.
