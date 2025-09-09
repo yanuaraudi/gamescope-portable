@@ -10,13 +10,6 @@ I Originally made this because there's no Gamescope repo for my Pop!_OS 22.04 th
 
 ## Build
 
-Clone this repo:
-
-```bash
-git clone https://github.com/yanuaraudi/gamescope-portable.git
-cd gamescope-portable
-```
-
 Build with Docker:
 ```bash
 docker build -t gamescope-builder .
